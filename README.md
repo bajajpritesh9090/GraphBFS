@@ -8,6 +8,7 @@ Ex. ![Image Daa1](https://user-images.githubusercontent.com/56750272/67139985-98
 
 
 Output: A, B, C, D, E, F
+
 Applications of BFS:
 1.	Finding the shortest path between two nodes 
 2.	Testing a graph for bipartiteness
@@ -30,6 +31,7 @@ Explanantion of BFS program:
 
 Graph Used:
 
+![Image BFS](https://user-images.githubusercontent.com/56750272/67140038-168d5500-f274-11e9-9bde-f68deceb84c7.png)
 
  
 Output: 5
