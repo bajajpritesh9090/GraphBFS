@@ -4,7 +4,8 @@ Breadth First Search:
 	Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root (or any node) and explores all of the neighbour nodes at the present depth prior to moving on to the nodes at the next depth level.
 	It uses a Queue data structure which follows first in first out. In BFS, one vertex is selected at a time when it is visited and marked then its adjacent are visited and stored in the queue. It is slower than DFS.
 
-Ex. 
+Ex. ![Image Daa1](https://user-images.githubusercontent.com/56750272/67139985-98c94980-f273-11e9-9727-e5156001a7b0.PNG)
+
 
 Output: A, B, C, D, E, F
 Applications of BFS:
