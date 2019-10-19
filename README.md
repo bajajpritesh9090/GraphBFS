@@ -29,6 +29,8 @@ Explanantion of BFS program:
 6.	Finally distance.get(v) gives the min. no. of edges between u and v.
 
 Graph Used:
+
+![Image-DFS](https://user-images.githubusercontent.com/56750272/67140013-e3e35c80-f273-11e9-82e0-390c8917891d.PNG)
  
 Output: 5
 
